@@ -1,0 +1,7 @@
+version: ">= 0.13.0, < 1.0.0"
+formatter: "markdown table"
+output:
+  file: README.md
+  mode: replace
+header-from: "docs/.header.md"
+footer-from: "docs/.footer.md"
