@@ -46,7 +46,6 @@ No modules.
 | <a name="output_deploy_bucket"></a> [deploy\_bucket](#output\_deploy\_bucket) | The S3 bucket to deploy the website files |
 | <a name="output_deploy_user_creds"></a> [deploy\_user\_creds](#output\_deploy\_user\_creds) | The AWS credentials for the deploy user |
 | <a name="output_website_endpoint"></a> [website\_endpoint](#output\_website\_endpoint) | The S3 website endpoint to access the site |
-| <a name="output_website_s3domain"></a> [website\_s3domain](#output\_website\_s3domain) | The S3 website domain to create Route 53 alias records |
 
 ## Known Issues
 
